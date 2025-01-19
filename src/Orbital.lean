@@ -1,6 +1,6 @@
 import Raylean
 import ECS
-import Examples.Orbital.Types
+import Orbital.Types
 import Raylean.Graphics2D
 
 open Raylean
